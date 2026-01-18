@@ -81,8 +81,9 @@ Hands-on PC assembly and disassembly session during Technology Information Syste
 Valuable experience that strengthened hardware knowledge and practical IT skills.  
 
 <p align="center">
-  <img src="assets/Pc_Assembly_2.jpeg" alt="PC Assembly & Disassembly" width="600">
+  <img src="https://github.com/user-attachments/assets/673afe70-38e5-434d-8409-3e01c07ee9e8" alt="PC Assembly & Disassembly" width="600">
 </p>
+
 
 **🏷 Hashtags:**  
 `#PCAssembly` `#HandsOnLearning` `#ComputerHardware` `#ITSkills` `#TechnologyInformationSystem`  
@@ -103,7 +104,7 @@ Attended an industry talk by **PPG Malaysia Technology Center (MYTC)** and gaine
 Successful digital transformation depends on strong integration of analytics, cloud technologies, and enterprise systems.  
 
 <p align="center">
-  <img src="assets/3rd_activity_post.jpeg" alt="Industry Talk: Data Analytics & SAP" width="600">
+  <img src="https://github.com/user-attachments/assets/5023cdbc-0eb5-4fa2-bd56-bb5a6f5e1b4b" alt="Industry Talk: Data Analytics & SAP" width="600">
 </p>
 
 **🏷 Hashtags:**  
@@ -126,7 +127,7 @@ Session on **Project Management & System Development** at UTM Johor Bahru, deliv
 Motivated to build a **T-shaped skill set**, combining technical foundation with project management and teamwork. Produced a reflection report with team members: Khalid, Abdulrahman, Basma, and Rahbab.  
 
 <p align="center">
-  <img src="assets/activity_4_2.PNG" alt="Agile & System Development Session" width="600">
+  <img src="https://github.com/user-attachments/assets/68693d8e-9753-4426-bcfa-fb16c54c2a7c" alt="Agile & System Development Session" width="600">
 </p>
 
 **🏷 Hashtags:**  
