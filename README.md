@@ -80,7 +80,7 @@ Hands-on PC assembly and disassembly session during Technology Information Syste
 Valuable experience that strengthened hardware knowledge and practical IT skills.  
 
 <p align="center">
-  <img src="assets/Pc_Assembly_2.jpeg" alt="PC Assembly & Disassembly" width="600"/>
+  <img src="assets/Pc_Assembly_2.jpeg" alt="PC Assembly & Disassembly" width="600">
 </p>
 
 **🏷 Hashtags:**  
@@ -102,7 +102,7 @@ Attended an industry talk by **PPG Malaysia Technology Center (MYTC)** and gaine
 Successful digital transformation depends on strong integration of analytics, cloud technologies, and enterprise systems.  
 
 <p align="center">
-  <img src="assets/3rd_activity_post.jpeg" alt="Industry Talk: Data Analytics & SAP" width="600"/>
+  <img src="assets/3rd_activity_post.jpeg" alt="Industry Talk: Data Analytics & SAP" width="600">
 </p>
 
 **🏷 Hashtags:**  
@@ -125,7 +125,7 @@ Session on **Project Management & System Development** at UTM Johor Bahru, deliv
 Motivated to build a **T-shaped skill set**, combining technical foundation with project management and teamwork. Produced a reflection report with team members: Khalid, Abdulrahman, Basma, and Rahbab.  
 
 <p align="center">
-  <img src="assets/activity_4_2.PNG" alt="Agile & System Development Session" width="600"/>
+  <img src="assets/activity_4_2.PNG" alt="Agile & System Development Session" width="600">
 </p>
 
 **🏷 Hashtags:**  
@@ -142,6 +142,6 @@ Motivated to build a **T-shaped skill set**, combining technical foundation with
 <p align="center">
 Let's connect! <br>
 <a href="https://www.linkedin.com/in/nasma-mutasim-4056863a6/recent-activity/all/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
