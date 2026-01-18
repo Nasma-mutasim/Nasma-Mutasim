@@ -141,5 +141,7 @@ Motivated to build a **T-shaped skill set**, combining technical foundation with
 ## 📬 Connect With Me
 <p align="center">
 Let's connect! <br>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nasma-mutasim-4056863a6/recent-activity/all/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
