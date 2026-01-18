@@ -62,8 +62,9 @@ Attended UTM’s Digital Open Day and gained valuable insights into IT project s
 Strengthened interest in project management, system development, and cybersecurity, highlighting the importance of combining technical expertise with leadership and teamwork.  
 
 <p align="center">
-  <img src="assets/utm_digital_4.JPG" alt="UTM Digital Open Day" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f4478451-9697-412c-8f26-38d9b234dc37" alt="UTM Digital Open Day" width="600"/>
 </p>
+
 
 **🏷 Hashtags:**  
 `#IndustrialVisit` `#ProjectManagement` `#SystemDevelopment` `#Cybersecurity` `#UTM`  
