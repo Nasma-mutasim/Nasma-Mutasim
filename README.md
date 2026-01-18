@@ -1,87 +1,145 @@
-✨🎓 Nasma Mutasim | GitHub E-Portfolio
-<p align="center"> <img src="https://img.shields.io/badge/Status-Computer%20Science%20Student-967969?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Specialization-Network%20%26%20Security-D2B48C?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/University-UTM-E5D3B3?style=for-the-badge&logoColor=8B4513"> </p>
-1️⃣ Profile Sections
+# ✨🎓 Nasma Mutasim | GitHub E-Portfolio
 
-Headline: Cybersecurity & Networking Enthusiast | Computer Science Student at UTM
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Computer%20Science%20Student-967969?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Specialization-Network%20%26%20Security-D2B48C?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/University-UTM-E5D3B3?style=for-the-badge&logoColor=8B4513">
+  <br>
+  <a href="https://www.linkedin.com/in/nasma-mutasim-123456789/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-Summary:
-I am a dedicated Computer Science student specializing in Network & Security, with a strong foundation in engineering from ASTI Academy. Passionate about building secure digital infrastructures and solving real-world computing challenges.
+---
 
-🎯 Core:
+## 💡 About Me
+Cybersecurity & Networking Enthusiast | Computer Science Student at UTM  
 
-📚Education:
+I am a dedicated Computer Science student specializing in Network & Security, with a strong foundation in engineering from ASTI Academy. Passionate about building secure digital infrastructures and solving real-world computing challenges.  
 
-BSc Computer Science (Network & Security) – Universiti Teknologi Malaysia (2025–present)
+*"Securing the future, one packet at a time." 🌐🔒*
 
-Diploma of Education, Engineering – ASTI Academy (2024–2025)
+---
 
-Position: Undergraduate Student | Aspiring Network Security Analyst
+## 📚 Education
+- **BSc Computer Science (Network & Security)** – Universiti Teknologi Malaysia (2025–present)  
+- **Diploma in Engineering** – ASTI Academy (2024–2025)  
 
-🛠Skills:
+---
 
-Technical: 💻 C++, 🖥 Computer Hardware Assembly, 🛠 AutoCAD, 📝 Microsoft Office
+## 🛠 Skills & Tools
+**Technical:**  
+💻 C++ | HTML | CSS | DevC++ | Computer Hardware Assembly | AutoCAD | Microsoft Office  
 
-Soft Skills: 🤝 Communication, 🧩 Problem Solving, 🏆 Leadership, 🤝 Teamwork, 🔍 Analytical Thinking
+**Soft Skills:**  
+🤝 Communication | 🧩 Problem Solving | 🏆 Leadership | 🤝 Teamwork | 🔍 Analytical Thinking  
 
-📚 Recommended: Courses & Certificates
+**Badges for Tools & Languages:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/DevC++-F34F29?style=for-the-badge&logoColor=white">
+</p>
 
-🔑Key Coursework: Digital Logic, Programming Techniques, Technology & Information Systems, Discrete Structures
+---
 
-📜Certifications:
+## 🏢 Assignments & Practical Work
 
-Professional Diploma in Engineering (Level 3) (2024-2025) – ASTI Academy - UAE 
+### 1️⃣ Industrial Visit: UTM Digital Open Day
+**Date:** 29/10/2025  
 
-Basic Medical Certificate in Injections (2022) – Aljoury Training Center - Sudan
+**Description:**  
+Attended UTM’s Digital Open Day and gained valuable insights into IT project success and failure factors: poor planning, weak leadership, ignoring warning signs, and miscommunication. A reminder that soft skills like teamwork and communication are as crucial as technical skills.  
 
-IGCSE O Level Certificate (2020 - 2021) – Unity International School, Sudan
+**Hands-on Experiences with Tools:**  
+- 💻 Dell laptops for students & professionals  
+- 🖥️ IT solutions from Crossroad & VST ECS Pericomp  
+- 🔐 System & data security at D-Ron  
+- 🤖 Microsoft Copilot, a secure AI tool used by UTM students  
 
-Kangaroo Math Competition Certificate – Participated in international math challenge
+**Reflection:**  
+Strengthened interest in project management, system development, and cybersecurity, highlighting the importance of combining technical expertise with leadership and teamwork.  
 
-🏆 Additional: Honors, Awards & Projects
+<p align="center">
+  <img src="assets/utm_digital_4.JPG" alt="UTM Digital Open Day" width="600"/>
+</p>
 
-Projects: Hands-on individual & team-based projects at UTM Faculty of Computing And ASTI Academy
+**🏷 Hashtags:**  
+`#IndustrialVisit` `#ProjectManagement` `#SystemDevelopment` `#Cybersecurity` `#UTM`  
 
-Experience: Volunteer at Sawaed Association – developed leadership and communication skills
+---
 
-Academic Work: Conducted research, synthesized information, and produced professional reports and presentations
+### 2️⃣ PC Assembly & Disassembly
+**Date:** 12/11/2025  
 
-2️⃣ Assignments & Practical Work
+**Description:**  
+Hands-on PC assembly and disassembly session during Technology Information System class. Explored internal components, dismantled and reassembled a PC step by step, and tested the system to ensure it worked properly.  
 
-🏢 Industry Talk & Visit
+**Reflection:**  
+Valuable experience that strengthened hardware knowledge and practical IT skills.  
 
-Explored cybersecurity trends and professional networking standards
+<p align="center">
+  <img src="assets/Pc_Assembly_2.jpeg" alt="PC Assembly & Disassembly" width="600"/>
+</p>
 
-Gained insight into bridging academic knowledge to industry expectations
+**🏷 Hashtags:**  
+`#PCAssembly` `#HandsOnLearning` `#ComputerHardware` `#ITSkills` `#TechnologyInformationSystem`  
 
-🖥 PC Assembly Lab
+---
 
-Hands-on hardware identification, assembly, and troubleshooting
+### 3️⃣ Industry Talk: Data Analytics, Infrastructure & SAP
+**Date:** 20/11/2025  
 
-Developed practical computing skills and confidence in working with physical systems
+**Description:**  
+Attended an industry talk by **PPG Malaysia Technology Center (MYTC)** and gained insights into how data analytics, IT infrastructure, and **SAP** support global business operations 🌍.  
 
-🎨 Design Thinking (Low-Fidelity Prototype)
+💡 Learned how **SAP S/4HANA**, cloud platforms, and the **Plan Build Run** model enable efficiency, scalability, and data-driven decision-making.  
 
-Applied empathic design principles to create early-stage prototypes
+📝 Prepared a detailed poster summarizing concepts, technologies, and real-world applications.  
 
-Learned to prioritize user needs and work collaboratively in a team
+**Key Takeaway:**  
+Successful digital transformation depends on strong integration of analytics, cloud technologies, and enterprise systems.  
 
-3️⃣ Reflections
+<p align="center">
+  <img src="assets/3rd_activity_post.jpeg" alt="Industry Talk: Data Analytics & SAP" width="600"/>
+</p>
 
-Summary of Gains:
+**🏷 Hashtags:**  
+`#IndustryTalk` `#DataAnalytics` `#SAP` `#CloudComputing` `#ITInfrastructure` `#DigitalTransformation` `#AcademicLearning`  
 
-💡 Gained understanding of professional cybersecurity expectations
+---
 
-🛠 Enhanced practical computing and hardware troubleshooting skills
+### 4️⃣ From Classroom to Boardroom: Lessons in Agile & System Development
+**Date:** 18/12/2025  
 
-🤝 Improved collaborative planning and user-centered design abilities
+**Description:**  
+Session on **Project Management & System Development** at UTM Johor Bahru, delivered by Ts. Hj. Abdul Alim bin Abdul Muttalib. Highlighted the gap between academic learning and industry expectations.  
 
-Suggested Improvements:
+**Key Takeaways:**  
+1️⃣ **System Development is a mindset** – Requires constant adaptation and continuous learning.  
+2️⃣ **Planning drives success** – Structured planning is essential: *fail to plan, plan to fail* ⚠️  
+3️⃣ **Soft skills matter as much as code** – Collaboration, communication, and practical tools like Git, Jira, CI/CD pipelines 🤝  
 
-Transition from Low-Fidelity → High-Fidelity interactive prototypes
+**Reflection:**  
+Motivated to build a **T-shaped skill set**, combining technical foundation with project management and teamwork. Produced a reflection report with team members: Khalid, Abdulrahman, Basma, and Rahbab.  
 
-Integrate Cloud Security concepts into hardware & networking knowledge
+<p align="center">
+  <img src="assets/activity_4_2.PNG" alt="Agile & System Development Session" width="600"/>
+</p>
 
-Personal Growth:
-This e-portfolio captures my journey from a diploma student in Dubai to a degree student in Malaysia, blending volunteer experiences and technical lab work into a strong professional profile
+**🏷 Hashtags:**  
+`#UTM` `#SystemDevelopment` `#ProjectManagement` `#Agile` `#TechCareers` `#Fintech` `#SoftwareEngineering` `#LearningJourney`  
 
-<p align="center"> <b>Let's Connect!</b><br> <i>"Securing the future, one packet at a time." 🌐🔒</i> </p>
+---
+
+## 🤝 Volunteer Experience
+**Sawaed Association** – Developed leadership and communication skills through volunteering activities.  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+Let's connect! <br>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
