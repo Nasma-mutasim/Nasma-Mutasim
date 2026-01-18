@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Specialization-Network%20%26%20Security-D2B48C?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/University-UTM-E5D3B3?style=for-the-badge&logoColor=8B4513">
   <br>
-  <a href="https://www.linkedin.com/in/nasma-mutasim-123456789/">
+  <a href="https://www.linkedin.com/in/nasma-mutasim-4056863a6/recent-activity/all/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
